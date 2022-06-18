@@ -1,0 +1,19 @@
+
+.temp-box{
+  width: 50px;
+  
+}
+.temp{
+  display: inline-flex;
+}
+
+.subt{
+  display: block;
+  color: blueviolet;
+  
+  font-size: large;
+}
+
+.centro{
+  text-align: center;
+}

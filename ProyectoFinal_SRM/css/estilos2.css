@@ -1,0 +1,35 @@
+.per1{
+    background-color: rgba(215,2,6,255);
+  }
+  
+  .per2{
+    background-color: rgba(240,91,79,255);
+  }
+  
+  .per3{
+    background-color: rgba(244,198,61,255);
+  }
+  
+  .per4{
+    background-color: rgba(209,121,5,255);
+  }
+  
+  .per5{
+    background-color: rgba(69,61,63,255);
+  }
+  .table{
+    border: 3px solid black;
+    width: 100%;
+    table-layout: fixed;
+  }
+.ct-slice-pie{
+    stroke: white;
+    stroke-width: 5px;
+    stroke-linecap: round;
+  }
+  .ct-label{
+    fill:aliceblue;
+    font-weight: bold;
+    font-size: 100%;
+    width: 80%;
+  }
